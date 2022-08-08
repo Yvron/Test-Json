@@ -1,0 +1,20 @@
+[
+    {
+      "personalInfo": {
+        "firstName": "Will",
+        "lastName": "Alexander"
+      },
+      "contactPreference": "email",
+      "email": {
+        "email": "test@test.com",
+        "confirm": "test@test.com"
+      },
+      "phone": "",
+      "loginInfo": {
+        "username": "test",
+        "password": "test",
+        "confirmPassword": "test"
+      },
+      "id": 1
+    }
+]
